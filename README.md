@@ -1,5 +1,9 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Astrid&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid&show_icons=true&theme=catppuccin_mocha)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-Astrid)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Zhang-Astrid/Zhang-Astrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
