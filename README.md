@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid&show_icons=true&hide=stars,issues&theme=catppuccin_mocha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Astrid&layout=pie&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-Astrid&layout=pie&hide=stars,issues&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid&show_icons=true&theme=catppuccin_mocha)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zhang-Astrid&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
