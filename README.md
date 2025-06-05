@@ -1,5 +1,6 @@
 ## Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/Zhang-Astrid?template=classic&config.timezone=Asia%2FShenzhen"> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhang-Astrid)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Zhang-Astrid/Zhang-Astrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
